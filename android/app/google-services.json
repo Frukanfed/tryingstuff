@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251093261307",
+    "project_id": "horsinaround-639ba",
+    "storage_bucket": "horsinaround-639ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251093261307:android:af224e4bc9a16e54dc095e",
+        "android_client_info": {
+          "package_name": "com.playinaround.horsinaround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251093261307-lvea2abvjtvm3f5nj3lbbcfmc4gl2bo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv4ef8XXjUCxPvd1fkLugbz6bI7WXABmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251093261307-lvea2abvjtvm3f5nj3lbbcfmc4gl2bo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
